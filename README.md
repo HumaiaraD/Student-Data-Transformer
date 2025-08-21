@@ -16,4 +16,4 @@ A Python tool to filter, process, and summarize student academic data. This proj
 ## 🧪 Example Input
 
 ```python
--I added a data dictionary using random subjects and numbers.
+-I added a data dictionary using random subjects and numbers in my .py file. Check it out.
